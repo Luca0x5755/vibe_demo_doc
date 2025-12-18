@@ -162,7 +162,7 @@
 
 ## 技術需求
 - 後端：Python + Supabase
-- 前端：可用 Streamlit 或 Lovable
+- 前端：Lovable
 - 自動評分：使用排程器每天執行
 
 請幫我生成這個 CRM 系統的程式碼。
