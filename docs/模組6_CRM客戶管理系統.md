@@ -134,9 +134,10 @@
 - **手動觸發**：
   - 實作手動觸發 API，讀取 `config.json` 規則，重新計算並更新所有客戶的等級。
 
-
 ## 技術堆疊
 - 後端：Python + Supabase
+- 不要撰寫前端程式碼
+
 ```
 
 ### 前端 Prompt (Frontend)
@@ -182,6 +183,12 @@
 ## 技術堆疊
 - 前端框架：Lovable (React/TypeScript)
 - 視覺風格：現代化、清晰、資訊分層明確。
+```
+
+### 串接 Prompt
+
+```markdown
+CRM 客戶管理系統，請使用 Axios 串接後端 API，替換目前的 Mock Data。
 ```
 
 ---
