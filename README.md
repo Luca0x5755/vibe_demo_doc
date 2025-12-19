@@ -26,6 +26,7 @@ A: 在資料庫中，將 user 的 role 設定為 manager 即可。
 2. github 帳號
 3. 2 個 google 帳號
 4. lovable 帳號 (使用邀請碼) > 關聯 github 帳號
+5. ngrok
 
 安裝軟體：
 1. python、uv
